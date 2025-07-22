@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6dc48d5-5941-4c38-ae11-d0d2444956df" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\编程软件\apache-maven-3.9.8" />
+        <option name="localRepository" value="F:\any-code\mvn" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\编程软件\apache-maven-3.9.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2w57yQlI0s4LGq81vl5KHt6ubcb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP 请求.generated-requests | #4.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #5.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.boke-springboot [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BokeApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/any-code/jav/项目/boke&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.boke.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BokeApplication">
+    <configuration name="generated-requests | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" requestIdentifier="#4" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="5" requestIdentifier="#5" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="BokeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="boke-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.boke.BokeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP 请求.generated-requests | #4" />
+        <item itemvalue="HTTP 请求.generated-requests | #5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d6dc48d5-5941-4c38-ae11-d0d2444956df" name="更改" comment="" />
+      <created>1745319834376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745319834376</updated>
+      <workItem from="1745319835433" duration="2261000" />
+      <workItem from="1745383826692" duration="1809000" />
+      <workItem from="1745413298232" duration="1787000" />
+      <workItem from="1745484374445" duration="1187000" />
+      <workItem from="1745487317219" duration="6801000" />
+      <workItem from="1745919088978" duration="2282000" />
+      <workItem from="1746078110920" duration="6896000" />
+      <workItem from="1746262425547" duration="2595000" />
+      <workItem from="1746335204110" duration="12935000" />
+      <workItem from="1746444770904" duration="4102000" />
+      <workItem from="1746513278173" duration="3993000" />
+      <workItem from="1746552159506" duration="24000" />
+      <workItem from="1746552218791" duration="760000" />
+      <workItem from="1746553930353" duration="1879000" />
+      <workItem from="1746651233811" duration="4000" />
+      <workItem from="1746654339627" duration="1097000" />
+      <workItem from="1746717264517" duration="4028000" />
+      <workItem from="1746762215901" duration="868000" />
+      <workItem from="1747029957343" duration="16000" />
+      <workItem from="1747040868922" duration="42000" />
+      <workItem from="1747110941484" duration="2260000" />
+      <workItem from="1747194170980" duration="647000" />
+      <workItem from="1747629144107" duration="3143000" />
+      <workItem from="1748774810754" duration="34000" />
+      <workItem from="1749399540959" duration="197000" />
+      <workItem from="1751418646351" duration="598000" />
+      <workItem from="1751506566888" duration="3728000" />
+      <workItem from="1751515536745" duration="3485000" />
+      <workItem from="1751525010430" duration="251000" />
+      <workItem from="1751525272368" duration="4379000" />
+      <workItem from="1751596380590" duration="3719000" />
+      <workItem from="1751614407008" duration="671000" />
+      <workItem from="1751796366408" duration="4341000" />
+      <workItem from="1751854084628" duration="2948000" />
+      <workItem from="1751945633505" duration="1188000" />
+      <workItem from="1751979664197" duration="137000" />
+      <workItem from="1752256568002" duration="3282000" />
+      <workItem from="1752381143833" duration="7358000" />
+      <workItem from="1752456004492" duration="3302000" />
+      <workItem from="1752722051870" duration="3000" />
+      <workItem from="1752772561646" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="boke" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://F:/找工作/项目/boke}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
